@@ -25,7 +25,7 @@ SECRET_KEY = 'op1(76=*6^mncys%=gs2kpu6kr+$o9n9u)u^g1^i53wmewv0js'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jsolisto.pythonanywhere.com']
 
 
 # Application definition
